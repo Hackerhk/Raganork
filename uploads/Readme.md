@@ -380,6 +380,7 @@ update
 uyir
 vada
 venda
+fighter 
 verithanam
 wait
  
